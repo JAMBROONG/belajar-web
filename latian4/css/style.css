@@ -1,0 +1,18 @@
+.motor {
+    color: red;
+}
+.mobil {
+    color: blue;
+}
+.jaran {
+    color: green;
+}
+
+ul {
+    list-style-type: none;
+}
+
+img {
+    width: 100px;
+    height: 50px;
+}
